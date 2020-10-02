@@ -1,0 +1,23 @@
+#auth-board{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.AutenticacaoPagina{
+  background-color: white;
+}
+
+.Autenticacao {
+  width: 300px;
+}
+
+.Registo{
+  background-color: white;
+  margin-left: 80px;
+}
+
+.Submit{
+  float: left;
+}

@@ -1,0 +1,23 @@
+Hospital React 
+                            
+/* TEAM */
+
+                            
+Realizado por: João Verissimo & Ruben Salgado
+
+Engenharia Informática
+
+UC: Tecnologias da Internet 2
+
+
+
+/* THANKS */
+
+Sugestão da google cloud para deploy:
+Afonso Seguro
+
+
+Informação sobre QreditRoll:
+Name: Ricardo Bucho & André Nunes
+
+Github dos créditos: https://github.com/Q42/QreditRoll

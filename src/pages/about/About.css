@@ -1,0 +1,28 @@
+.About{
+    min-height: 95vh;
+    background-color:#282c34 ;
+    background-image: url('../../assets/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Urgencias-header{
+    background-color: #205587;
+    text-align: center;
+}
+
+.Card{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: blue;
+}
+
+.rainbow{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}

@@ -1,0 +1,13 @@
+.Pediatria {
+  background-color: lightgray;
+  min-height: 100vh;
+}
+
+.UploadPediatria{
+  text-align: left;
+  margin-left: 15px;
+}
+
+.Imagem{
+  text-align: center;
+}

@@ -1,0 +1,76 @@
+.Urgencias{
+  background-color: lightpink;
+  min-height: 100vh;
+}
+
+.Imagem{
+  text-align: center;
+}
+
+.body-content {
+  display: flex;              /* forces children to same row */
+  height: 500px;
+}
+
+.left-menu {
+  width: 190px;
+  float: left;
+  background-color: lightsalmon;
+}
+
+.middle-view {
+  text-align: center;
+  width: 100%;
+  background-color: blueviolet;
+}
+
+.InfetadosColuna{
+  min-height: 300px;
+}
+
+.width{
+  width:100%;
+}
+
+.divEsquerdo{
+  float: left; width: 80%;
+  border: 1px solid black;
+}
+
+.divCentral{
+  float: left; width: 50%;
+  border: 1px solid black;
+}
+
+.divDireita{
+  float: left; width: 20%;
+  border: 1px solid black;
+}
+
+.break{
+  clear: left;
+}
+
+th, td {
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.div{
+border: 1px solid black;
+}
+
+td {
+  padding: 5px;
+  text-align: left;    
+}
+
+th{
+  padding: 5px;
+  text-align: left; 
+}
+
+.table{
+  border-collapse: collapse;
+  width:100%;
+}

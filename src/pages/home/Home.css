@@ -1,0 +1,8 @@
+.BackgroundInicial{
+    min-height: 64vh;
+    background-color:#282c34 ;
+    background-image: url('../../assets/backInicial.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

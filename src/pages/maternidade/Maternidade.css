@@ -1,0 +1,19 @@
+.Maternidade{
+  background-color: lightblue;
+  min-height: 100vh;
+}
+
+.Imagem {
+  text-align: center;
+}
+
+.Pesquisa{
+  text-align: left;
+  width: 350px;
+  float: left;
+  margin-left: 10px;
+}
+
+.teste{
+  margin-left: 400px;
+}

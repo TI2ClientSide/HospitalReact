@@ -1,0 +1,13 @@
+.UCI {
+  background-color: lightgreen;
+  min-height: 100vh;
+}
+
+.Imagem{
+  text-align: center;
+}
+
+.Upload{
+  text-align: left;
+  margin-left: 15px;
+}
